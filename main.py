@@ -11,7 +11,7 @@ import sys
 
 LINE = (
     "Forty bounties built, forty-one flags survived, "
-    "and my week still waits on one word: lanjutkan."
+    "my week still waits on one word: lanjutkan."
 )
 
 
